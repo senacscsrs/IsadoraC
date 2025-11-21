@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: beige;
+}
+ul{
+    list-style-type: square;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: beige;
+    text-align: center;
+}
+img{
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: lightpink;
+}

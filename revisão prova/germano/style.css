@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: beige;
+}
+ul{
+    list-style-type: square;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: beige;
+}
+body{
+    background-color: lightblue;
+}
